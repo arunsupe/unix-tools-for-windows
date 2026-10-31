@@ -8,9 +8,9 @@ Quick Start
 
 Run in PowerShell:
 
-irm https://raw.githubusercontent.com/USER/REPO/main/setup.ps1 | iex
-
-Replace USER/REPO with your GitHub username and repository.
+```bash
+irm https://raw.githubusercontent.com/arunsupe/unix-tools-for-windows/main/setup.ps1 | iex
+```
 
 Included Tools
 
